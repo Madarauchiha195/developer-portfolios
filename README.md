@@ -844,6 +844,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## P
 
+- [Purnank Jadhav](https://purnankjadhav-portfolio.vercel.app/) [Front-End,Software Engineer]
 - [PHPxCODER](https://phpxcoder.in)
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pablo Conejos](https://www.pabloconejos.dev/)
